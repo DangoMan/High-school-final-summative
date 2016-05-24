@@ -1,0 +1,8 @@
+4
+10
+z
+z
+10
+u
+true
+<html>Keep in mind, the x is independent to gravity</html>

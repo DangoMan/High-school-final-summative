@@ -1,0 +1,8 @@
+4
+20
+30
+z
+25
+u
+true
+<html>vix = 20*cos30, viy = 20*sin30 </html>

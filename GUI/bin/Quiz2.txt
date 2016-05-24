@@ -1,0 +1,61 @@
+10
+1
+1) In what case is the noun corpi? (corpus: body)
+a) Nominative singular
+b) Nominative plural
+c) Accusative plural
+d) All of the above
+3
+2) In what case is the noun mercatores? (mercator: merchant)
+a) Nominative singular
+b) Nominative plural
+c) Accusative plural
+d) 2 of the above
+1
+3) In what case is the word amas? (amere: to love)
+a) Nominative singular
+b) 2nd singular
+c) 3rd plural
+d) Accusative singular
+2
+4) In what case is the word soletis? (solere: to be accustomed)
+a) Nominative plural
+b) 2nd singular
+c) Nominative singular
+d) 2nd plural
+3
+5) In what case is the word flumentem? (flumen: river)
+a) Accusative singular
+b) 3nd singular
+c) 1rd singular
+d) Accusative singular
+3
+6) Translate the following sentence: regina coronam amet
+a) The crown loves the queen
+b) She loves it.
+c) I love the queen
+d) The queen loves the crown
+2
+7) Translate the following sentence: ego canes timeo
+a) The dog fears me
+b) We fear the dog
+c) I fear the dogs
+d) The dogs fear them
+0
+8) Translate the following sentence: tu lunam vides?
+a) Do you see the moon?
+b) Does the moon see us?
+c) Do we see the moon?
+d) Do we come to the moon?
+1
+9) How would you say the following sentence in Latin: She loves the merchant?
+a) mercator amat
+b) mercatorem amat
+c) mercatorem ames
+d) mercatores amant
+3
+10)  How would you say the following sentence in Latin: The slave-girl is accustomed to the river?
+a) ancillam flumentes solent
+b) ancillam flumens solere
+c) ancilla flumentes soleo
+d) flumentem ancilla solet

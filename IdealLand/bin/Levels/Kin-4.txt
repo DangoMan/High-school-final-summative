@@ -1,0 +1,9 @@
+2
+3
+2
+10
+u
+u
+250
+True
+<html>Hint: Use equation 1</html>

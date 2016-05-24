@@ -1,0 +1,9 @@
+3
+0
+u
+20
+0.5
+u
+150
+True
+<html>Hint: Use equation 5, and the quadratic formula</html>

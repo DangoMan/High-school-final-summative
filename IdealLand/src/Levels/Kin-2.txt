@@ -1,0 +1,9 @@
+0
+2
+u
+15
+u
+5.6
+120
+True
+<html>Hint: Use equation 1</html>

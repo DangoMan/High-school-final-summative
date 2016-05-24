@@ -1,0 +1,9 @@
+2
+1
+z
+u
+u
+4
+225
+True
+<html>Hint: Use equation 3</html>

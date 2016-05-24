@@ -1,0 +1,67 @@
+10
+0
+1) What case is the verb timeo? (timere: to fear)
+a) 1st singular
+b) 3rd plural
+c) 2nd singular
+d) 3rd singular
+1
+2) What case is the verb legunt? (legere: to read)
+a) 2nd plural
+b) 3rd plural
+c) 2nd singular
+d) 3rd singular
+3
+3) What case is the verb vides? (videre: to see)
+a) 2nd plural
+b) 3rd plural
+c) 1st plural
+d) 2nd singular
+2
+4) What is the correct translation for ¡°you rule¡±? (regnere: to rule)
+a) regno
+b) regnamus
+c) regnas
+d) regnarunt 
+2
+5) What is the correct translation for ¡°they are¡±?
+a) sum
+b) estis
+c) sunt
+d) es
+0
+6) In what declension is the word ancilla? (ancilla: slave-girl)
+a) 1st
+b) 2nd
+c) 3rd
+d) 4th
+2
+7) In what case is the noun canem (canis: dog)
+a) Nominative singular
+b) Nominative plural
+c) Accusative singular
+d) Accusative plural
+3
+8) In what case is the noun reginas? (regina: queen)
+a) Nominative singular
+b) Nominative plural
+c) Accusative singular
+d) Accusative plural
+0
+8) In what case is the noun gemitus? (gemitus: groan)
+a) Nominative singular
+b) Nominative plural
+c) Accusative singular
+d) None of the above
+1
+9) In what case is the noun ancillis? (regina: queen)
+a) Nominative singular
+b) Accusative plural
+c) Accusative singular
+d) None of the above
+2
+10) In what case is the noun lunam? (luna: moon)
+a) Nominative singular
+b) Nominative plural
+c) Accusative singular
+d) Accusative plural
